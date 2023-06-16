@@ -2,9 +2,13 @@
 Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com/tleb/awesome-mastodon) page about Mastodon info. I hope this can be a useful resource for those either looking to join Lemmy/kbin.
 
 ## Contents
--  [Official Sites](#official-sites)
+- [Official Sites](#official-sites)
 - [kbin Instance info](#kbin-instance-info)
 - [Lemmy Instance Info](#Lemmy-Instance-Info)
+- [Magazine (kbin) Discovery](#Magazine-(kbin)-Discovery)
+- [Community (Lemmy) Discovery](#Community-(Lemmy)-Discovery)
+- [Apps](#Apps)
+- [Transparency Thoughts](#Transparency-Thoughts)
 
 ## Official Sites
 - [Lemmy](https://join-lemmy.org/)
