@@ -22,7 +22,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 ## Lemmy Instance Info
 If you need help finding a home on one of Lemmy's many instances, these resources may help.
 - [maltfield's Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
-- [Fediverse Observer - Lemmy]([https://kbin.fediverse.observer/list](https://lemmy.fediverse.observer/list))
+- [Fediverse Observer - Lemmy](https://lemmy.fediverse.observer/list)
 
 ## Magazine (kbin) Discovery
 At this time, I am not aware of any site aggregating kbin Magazines across instances.
