@@ -16,15 +16,13 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Tildes](https://tildes.net/)
 
 ## kbin Instance Info
-- [kbin.social](https://kbin.social/)
-- [fedia.io](https://fedia.io/)
-- [karab.in](https://karab.in/) (Polish)
-- [kopnij.in](https://kopnij.in/) (Polish)
-- [nadajnik.org](https://nadajnik.org/) (Polish)
+- [Fediverse Observer - kbin](https://kbin.fediverse.observer/list)
+- [kbin.social](https://kbin.social/) - not listed above for some reason, possibly due to kbin.social's federation/DDOS/CloudFlare issues
 
 ## Lemmy Instance Info
 If you need help finding a home on one of Lemmy's many instances, these resources may help.
 - [maltfield's Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
+- [Fediverse Observer - Lemmy]([https://kbin.fediverse.observer/list](https://lemmy.fediverse.observer/list))
 
 ## Magazine (kbin) Discovery
 At this time, I am not aware of any site aggregating kbin Magazines across instances.
