@@ -47,5 +47,19 @@ A Lemmy Community is most easily compared to a subreddit. These sites aggregate 
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
 - [Cavy](https://github.com/avery-pierce/Cavy) (iOS)
 
+## Scripts & Tweaks
+- [kbin enhancement script](https://greasyfork.org/en/scripts/468612-kbin-enhancement-script)
+	- Add domains to magazines and users for federated content
+	- Collapse comments
+	- Collapse replies
+	- Replies start collapsed
+	- Move comment box to top
+	- All features can be toggled on and off
+- [KBin Extra Compact Dark Blue Theme](https://greasyfork.org/en/scripts/468706-kbin-extra-compact-dark-blue-theme)
+	- This script will do 2 things:
+		1. Override your KBin.social theme, making it a pleasant dark blue. See screenshots for a preview.
+		2. When you're viewing threads in Compact mode, threads will take up even less space. This looks nice while also allowing you to see more content on your screen. Classic view is unaffected.
+- [kbinStyles Magazine](https://kbin.social/m/kbinStyles) for custom CSS and JS to help improve your Kbin experience!
+
 ## Transparency Thoughts
 While this page outlines info about both Lemmy and kbin (and Tildes), I feel obligated to at least mention some of the reports of Lemmy's older users and devs being unfriendly towards human rights. [@feditips@mstdn.social](https://mstdn.social/@feditips) has a [writeup about it here](https://mstdn.social/@feditips/106835057054633379#.). I am not here to verify, dispute, or lay any other claims to Lemmy, it's community, or members. I'm just helping pass along information for those that find it useful.
