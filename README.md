@@ -6,7 +6,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Apps](#Apps)
 - [kbin Instance info](#kbin-instance-info)
 - [Lemmy Instance Info](#Lemmy-Instance-Info)
-- [Community/Magazine Discovery](#Community/Magazine-Discovery)
+- [Community/Magazine Discovery](#CommunityMagazine-Discovery)
 - [Transparency Thoughts](#Transparency-Thoughts)
 
 ## Official Sites
