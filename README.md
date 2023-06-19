@@ -6,8 +6,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Apps](#Apps)
 - [kbin Instance info](#kbin-instance-info)
 - [Lemmy Instance Info](#Lemmy-Instance-Info)
-- [Magazine (kbin) Discovery](#Magazine-(kbin)-Discovery)
-- [Community (Lemmy) Discovery](#Community-(Lemmy)-Discovery)
+- [Community/Magazine Discovery](#Community/Magazine-Discovery)
 - [Transparency Thoughts](#Transparency-Thoughts)
 
 ## Official Sites
@@ -41,14 +40,12 @@ If you need help finding a home on one of Lemmy's many instances, these resource
 - [Fediverse Observer - Lemmy](https://lemmy.fediverse.observer/list)
 - [The Federation - Lemmy](https://the-federation.info/platform/73)
 
-## Magazine (kbin) Discovery
-At this time, I am not aware of any site aggregating kbin Magazines across instances.
-
-## Community (Lemmy) Discovery
-A Lemmy Community is most easily compared to a subreddit. These sites aggregate the communities, allowing users to know if a given community exists, and on which instance.
+## Community/Magazine Discovery
+A Lemmy Community is most easily compared to a subreddit. kbin calls Communities Magazines. These sites aggregate the communities/magazines, allowing users to know if a given community exists, and on which instance.
 - [Lemmy Community-Browser](https://browse.feddit.de/)
 - [Lemmy Explorer](https://lemmyverse.net/)
 - [Unofficial Subreddit Migration List (Lemmy, Kbin)](https://www.quippd.com/writing/2023/06/15/unofficial-subreddit-migration-list-lemmy-kbin-etc.html)
+- [Sub.Rehab](https://sub.rehab/) (Lemmy, kbin, and others)
 
 ## Scripts & Tweaks
 - [kbin enhancement script](https://greasyfork.org/en/scripts/468612-kbin-enhancement-script)
