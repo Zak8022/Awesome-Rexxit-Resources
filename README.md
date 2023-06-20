@@ -24,6 +24,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Remmel](https://github.com/uuttff8/Remmel) (iOS, Lemmy Only)
 - [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
 - [Morpha](https://gitlab.com/spersinger/morpha) (x-plat, Lemmy, in development)
+- [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since RIF was Android, assuming Lemmy Only, in development)
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
@@ -61,6 +62,7 @@ A Lemmy Community is most easily compared to a subreddit. kbin calls Communities
 		2. When you're viewing threads in Compact mode, threads will take up even less space. This looks nice while also allowing you to see more content on your screen. Classic view is unaffected.
 - [kbinStyles Magazine](https://kbin.social/m/kbinStyles) for custom CSS and JS to help improve your Kbin experience!
 - [Lemmy Deep Rounded](https://userstyles.world/style/10401/lemmy-deep-rounded) (custom CSS via Stylus)
+- [Kbin Link](https://github.com/daniel-lxs/kbin-link) (browser extension) This extension looks for Lemmy style communities and replaces them to direct you to seeing that community on your kbin instance.
 
 ## Transparency Thoughts
 While this page outlines info about both Lemmy and kbin (and Tildes), I feel obligated to at least mention some of the reports of Lemmy's older users and devs being unfriendly towards human rights. [@feditips@mstdn.social](https://mstdn.social/@feditips) has a [writeup about it here](https://mstdn.social/@feditips/106835057054633379#.). I am not here to verify, dispute, or lay any other claims to Lemmy, it's community, or members. I'm just helping pass along information for those that find it useful.
