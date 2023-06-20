@@ -24,7 +24,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Remmel](https://github.com/uuttff8/Remmel) (iOS, Lemmy Only)
 - [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
 - [Morpha](https://gitlab.com/spersinger/morpha) (x-plat, Lemmy, in development)
-- [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since RIF was Android, assuming Lemmy Only, in development)
+- [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
