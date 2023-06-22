@@ -18,7 +18,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Artemis](https://kbin.social/m/ArtemisApp) (formerly [Kmoon](https://kbin.social/m/kmoon)) (x-plat, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
 - [Backtick](https://tildes.net/~tildes/15xb/looking_for_beta_testers_for_my_tildes_net_ios_app) (iOS, Tildes Only, beta testing)
 - [Beyond](https://beehaw.org/post/647773) (iOS & Android, Lemmy)
-- [Connect for Lemmy]([https://kbin.social/m/technology@beehaw.org/t/76303/Introducing-Connect-for-Lemmy](https://lemmy.ca/post/831266)) (Android, Lemmy Only)
+- [Connect for Lemmy](https://lemmy.ca/post/831266) (Android, Lemmy Only)
 - [Mlem](https://lemmy.ml/c/mlemapp) (iOS, Lemmy Only, beta testing)
 - [Jerboa](https://github.com/dessalines/jerboa) (Android, Lemmy Only)
 - [Limbo](https://lemmy.world/c/limbo) (iOS, Lemmy)
