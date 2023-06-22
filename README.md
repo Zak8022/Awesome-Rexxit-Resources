@@ -20,11 +20,14 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Memmy](https://github.com/gkasdorf/memmy) (iOS, Lemmy Only, beta testing)
 - [Backtick](https://tildes.net/~tildes/15xb/looking_for_beta_testers_for_my_tildes_net_ios_app) (iOS, Tildes Only, beta testing)
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
-- [Kmoon](https://kbin.social/m/kmoon) (x-plat, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
+- [Artemis](https://kbin.social/m/ArtemisApp) (formerly [Kmoon](https://kbin.social/m/kmoon)) (x-plat, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
 - [Remmel](https://github.com/uuttff8/Remmel) (iOS, Lemmy Only)
 - [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
 - [Morpha](https://gitlab.com/spersinger/morpha) (x-plat, Lemmy, in development)
 - [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
+- Unnamed kbin app by @dansup@mastodon.social (not sure of platform availability)
+- Slide - (Lemmy Only for now, kbin an option once APIs exist, in development) Not the same dev as Slide for Reddit, but a fork of that codebase by @theory@feddit.uk
+- [Connect for Lemmy](https://kbin.social/m/technology@beehaw.org/t/76303/Introducing-Connect-for-Lemmy) (Android, Lemmy Only)
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
